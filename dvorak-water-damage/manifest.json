@@ -17,7 +17,7 @@ limitations under the License.
   "name": "Dvorak water damaged keyboard",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "Disabled the \ because of water damage",
+  "description": "Disabled the backslash because of water damage",
   "background": {
     "scripts": ["background.js"]
   },
